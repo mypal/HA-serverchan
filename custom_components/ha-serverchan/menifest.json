@@ -1,0 +1,10 @@
+{
+    "domain": "ha_serverchan",
+    "name": "HA-ServerChan",
+    "documentation": "https://github.com/mypal/HA-serverchan",
+    "dependencies": [],
+    "codeowners": ["@mypal"],
+    "requirements": [],
+    "version": "0.0.1",
+    "config_flow": false
+  }

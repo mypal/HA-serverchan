@@ -12,7 +12,7 @@ from homeassistant.components.notify import (
 import homeassistant.helpers.config_validation as cv
 
 _LOGGER = logging.getLogger(__name__)
-_RESOURCE = 'http://sc.ftqq.com'
+_RESOURCE = 'https://sctapi.ftqq.com'
 
 CONF_SCKEY = 'sc_key'
 
