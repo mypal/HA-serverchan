@@ -1,5 +1,5 @@
 {
-    "domain": "ha_serverchan",
+    "domain": "serverchan",
     "name": "HA-ServerChan",
     "documentation": "https://github.com/mypal/HA-serverchan",
     "dependencies": [],
